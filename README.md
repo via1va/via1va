@@ -9,3 +9,7 @@ Currently, I'm focusing on:
 - Learning new technologies.
 - Creating plugins for Obsidian.
 - Building websites.
+
+**Codewars :) **
+
+https://www.codewars.com/users/viaiva
