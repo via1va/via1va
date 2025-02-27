@@ -10,6 +10,3 @@ Currently, I'm focusing on:
 - Creating plugins for Obsidian.
 - Building websites.
 
-**Codewars :) **
-
-https://www.codewars.com/users/viaiva
